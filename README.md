@@ -66,30 +66,3 @@ S. No.	VDS (V)	VGS (V)	ID (mA)
 3			
 4<img width="1920" height="1020" alt="Screenshot 2026-11-19 100043" src="https://github.com/user-attachments/assets/6bfab603-6bfe-4ae2-8103-8b29ac7c3ade" />
 			
-5			
-6			
-7			
-8			
-Repeat the observation for different constant values of VGS.
-Simulation Results
-
- ID vs. VDS for different values of VGS.
-
-
-
-8. CALCULATIONS
-Transconductance:
-gm = ΔID / ΔVGS
-Therefore,  gm = __________________ S
-Drain Resistance:
-rd = ΔVDS / ΔID
-Therefore,  rd = __________________ Ω
-9. RESULT
-Thus, the drain and transfer characteristics of the MOSFET were simulated using LTspice. The values of transconductance (gm) and drain resistance (rd) were determined from the respective characteristics.
-gm = __________________ S
-rd = __________________ Ω
-10. PRECAUTIONS
-•	Check the MOSFET terminal connections before starting the simulation.
-•	Use appropriate voltage sweep limits.
-•	Keep VDS constant while obtaining transfer characteristics.
-•	Keep VGS constant for each drain-characteristic curve.
