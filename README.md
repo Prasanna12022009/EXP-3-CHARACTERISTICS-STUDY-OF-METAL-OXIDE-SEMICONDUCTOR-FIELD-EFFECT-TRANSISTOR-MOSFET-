@@ -64,7 +64,8 @@ S. No.	VDS (V)	VGS (V)	ID (mA)
 1			
 2			
 3			
-4			
+4<img width="1920" height="1020" alt="Screenshot 2026-11-19 100043" src="https://github.com/user-attachments/assets/6bfab603-6bfe-4ae2-8103-8b29ac7c3ade" />
+			
 5			
 6			
 7			
